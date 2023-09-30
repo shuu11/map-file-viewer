@@ -25,7 +25,7 @@
 		"baseUrl": "src",
     "paths": {
       "@c/*": [
-        "_components/*"
+        "features/components/*"
       ]
     },
     "forceConsistentCasingInFileNames": true

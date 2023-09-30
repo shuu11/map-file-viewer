@@ -23,6 +23,15 @@
     "postcss": "latest",
     "react-dropzone": "^14.2.3",
     "tailwindcss": "latest",
-    "typescript": "latest"
+    "typescript": "latest",
+		"@typescript-eslint/eslint-plugin": "^5.46.0",
+		"@typescript-eslint/parser": "^5.46.0",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-import": "^2.26.0",
+		"eslint-plugin-prettier": "^4.2.1",
+		"eslint-plugin-react": "^7.31.11",
+		"eslint-plugin-react-hooks": "^4.6.0",
+		"prettier": "^2.8.1",
+		"typescript-eslint": "^0.0.1-alpha.0"
   }
 }
