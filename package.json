@@ -19,7 +19,6 @@
     "@types/react-dom": "latest",
     "@typescript-eslint/eslint-plugin": "^5.46.0",
     "@typescript-eslint/parser": "^5.46.0",
-    "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
     "eslint-config-prettier": "^8.5.0",
@@ -28,11 +27,13 @@
     "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-hooks": "^4.6.0",
     "jotai": "^2.4.3",
-    "postcss": "latest",
+    "next-intercept-stdout": "^1.0.1",
     "prettier": "^2.8.1",
     "react-dropzone": "^14.2.3",
-    "tailwindcss": "latest",
+    "styled-components": "^6.0.8",
     "typescript": "latest",
-    "typescript-eslint": "^0.0.1-alpha.0"
+    "typescript-eslint": "^0.0.1-alpha.0",
+    "windicss": "^3.5.6",
+    "windicss-webpack-plugin": "^1.8.0"
   }
 }
